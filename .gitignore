@@ -142,6 +142,7 @@ env/
 venv/
 .envs/
 ENV/
+envs/
 env.bak/
 venv.bak/
 
